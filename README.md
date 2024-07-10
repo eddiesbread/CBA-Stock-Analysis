@@ -1,2 +1,3 @@
 # Stock-Analysis-Quant - Educational Purposes Only 
-In finance, quantitative analysis exploits mathematical and statistical analysis to determine the value of a financial asset such as a stock on the stock market. Quantitative trading analysts, also known as “quants”, use a wide variety of data to develop trading algorithms and computer models - <a href="https://datascientest.com/en/quantitative-analysis-what-is-it-and-how-do-i-become-a-quant#:~:text=In%20finance%2C%20quantitative%20analysis%20exploits,trading%20algorithms%20and%20computer%20models.">Datascientest</a>
+Enter image
+<a href="https://www.investopedia.com/terms/q/quantitativeanalysis.asp#:~:text=Quantitative%20analysis%20%28QA%29%20in%20finance%20refers%20to%20the,of%20financial%20data%20that%20might%20affect%20the%20market.">Quantitative</a> Stock Analysis project using python covering  stochastic slow and MACD on CBA.
