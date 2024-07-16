@@ -16,3 +16,4 @@
 - Matplotlib
 - YFiance
 - TaLib
+- Scipy
