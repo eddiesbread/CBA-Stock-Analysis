@@ -8,6 +8,9 @@ Fundamental analysis concentrates on data from sources, including financial reco
 ## What is Technical Analysis 
 The second method of stock analysis is technical analysis. Technical analysis focuses on the study of past and present price action to predict the probability of future price movements. Technical analysts analyze the financial market as a whole and are primarily concerned with price and volume, as well as the demand and supply factors that move the market
 
+## What is Machine Learning Analysis
+Machine learning is the concept that a computer program can learn and adapt to new data without human intervention. Machine learning is a field of artificial intelligence</a> (AI) that keeps a computer’s built-in <a href="https://www.investopedia.com/terms/a/algorithm.asp">algorithms</a> current regardless of changes in the worldwide economy.
+
 ## Reading Materials
 <a href="https://www.investopedia.com/terms/o/onbalancevolume.asp">OBV</a> - On-Balance Volume
 
