@@ -22,6 +22,8 @@ Machine learning is the concept that a computer program can learn and adapt to n
 
 <a href="https://www.investopedia.com/terms/t/trade-signal.asp#:~:text=Key%20Takeaways,allocations%20or%20take%20new%20positions.">Signals</a> - Trade Signals
 
+<a href="https://www.investopedia.com/terms/m/machine-learning.asp">ML</a> - Machine Learning 
+
 ## All Information came from investopedia 
 <a href="https://www.investopedia.com/"> Investopedia </a>
 
