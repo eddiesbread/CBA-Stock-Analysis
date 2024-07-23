@@ -17,6 +17,8 @@ The second method of stock analysis is technical analysis. Technical analysis fo
 
 <a href="https://www.investopedia.com/terms/s/sma.asp">MACD</a> - Moving Average Convergence/Divergence
 
+<a href="https://www.investopedia.com/terms/t/trade-signal.asp#:~:text=Key%20Takeaways,allocations%20or%20take%20new%20positions.">Signals</a> - Trade Signals
+
 ## All Information came from investopedia 
 <a href="https://www.investopedia.com/"> Investopedia </a>
 
